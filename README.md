@@ -1,6 +1,7 @@
 <h1 align="center">Computational-Mathematics-Introduction</h1>
 
-![img1](https://github.com/eliza-ttt/AI-/assets/73555386/0e30f887-199a-4da1-8564-071e46391bca)
+![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)
+
 ### An Introductory matrices can help students grasp the fundamental concepts and applications of matrices in mathematics.
 ### Introduction to Matrices<br>
 Objectives<br>
