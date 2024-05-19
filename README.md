@@ -1,5 +1,7 @@
 <h1 align="center">Computational-Mathematics-Introduction</h1>
 
+![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__3.png)
+![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__4.png?raw=true)
 
 
 
