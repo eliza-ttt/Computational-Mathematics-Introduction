@@ -2,6 +2,8 @@
 
 ![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)<br>
 
+![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__7.png?raw=true)<br>
+
 Course of numerical methods involves outlining key concepts and objectives that build a strong foundation in numerical techniques. Below is a detailed breakdown objectives:<br>
 - What Are Numerical Methods?<br>
 - Why Use Numerical Methods?<br>
