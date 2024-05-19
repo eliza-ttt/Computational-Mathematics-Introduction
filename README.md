@@ -1,5 +1,7 @@
 <h1 align="center">Computational-Mathematics-Introduction</h1>
 
+![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)<br>
+
 Course of numerical methods involves outlining key concepts and objectives that build a strong foundation in numerical techniques. Below is a detailed breakdown objectives:<br>
 - What Are Numerical Methods?<br>
 - Why Use Numerical Methods?<br>
@@ -9,15 +11,16 @@ Course of numerical methods involves outlining key concepts and objectives that 
 - Common Numerical Methods<br>
 - Solving Differential Equations<br>
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__5.png?raw=true)<br>
+
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__6.png?raw=true)<br>
 
 ![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__3.png)<br>
+
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__4.png?raw=true)<br>
 
 
 
 
-![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)<br>
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__2.png?raw=true)<br>
 
 ### An Introductory matrices can help students grasp the fundamental concepts and applications of matrices in mathematics.
