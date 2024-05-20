@@ -21,15 +21,15 @@ Course of numerical methods involves outlining key concepts and objectives that 
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__6.png?raw=true)<br>
 
-- What is Function Approximation?
-- Why Do We Need Function Approximation?
-- Approaches to Function Approximation
-- Interpolation
-- Regression
-- Series Expansion
-- Taylor Series Expansion
-- Applications of Function Approximation
-- Summary
+- What is Function Approximation?<br>
+- Why Do We Need Function Approximation?<br>
+- Approaches to Function Approximation<br>
+- Interpolation<br>
+- Regression<br>
+- Series Expansion<br>
+- Taylor Series Expansion<br>
+- Applications of Function Approximation<br>
+- Summary<br>
 
 ## Introduction to Iterative Methods: Understanding the Basics
 
@@ -37,19 +37,19 @@ Course of numerical methods involves outlining key concepts and objectives that 
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__4.png?raw=true)<br>
 
-- Overview of Iterative Methods
-- Why Iterative Methods?
-- Basic Idea of Iterative Methods
-- Types of Iterative Methods
-- Fixed-Point Iteration
-- Newton's Method
-- Jacobi Method
-- Gauss-Seidel Method
-- Successive Over-Relaxation (SOR)
-- Convergence and Stability
-- Summary
+- Overview of Iterative Methods<br>
+- Why Iterative Methods?<br>
+- Basic Idea of Iterative Methods<br>
+- Types of Iterative Methods<br>
+- Fixed-Point Iteration<br>
+- Newton's Method<br>
+- Jacobi Method<br>
+- Gauss-Seidel Method<br>
+- Successive Over-Relaxation (SOR)<br>
+- Convergence and Stability<br>
+- Summary<br>
 
-
+## Matrix<br>
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__2.png?raw=true)<br>
 
 ### An Introductory matrices can help students grasp the fundamental concepts and applications of matrices in mathematics.
@@ -67,6 +67,7 @@ Objectives<br>
 Course on Stepic!
 <br>
 [Stepik](https://stepik.org/course/205683)
+<br>
 <br>
 The Youtube videos playlist link
 <br>
