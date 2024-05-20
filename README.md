@@ -1,5 +1,7 @@
 <h1 align="center">Computational-Mathematics-Introduction</h1>
 
+## Numerical Methods: Understanding the Basics of Numerical Techniques
+
 ![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__1.png)<br>
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__7.png?raw=true)<br>
@@ -12,15 +14,40 @@ Course of numerical methods involves outlining key concepts and objectives that 
 - Root Finding Methods<br>
 - Common Numerical Methods<br>
 - Solving Differential Equations<br>
+
+## Introduction to Function Approximation: Understanding How to Approximate Complex Functions
+
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__5.png?raw=true)<br>
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__6.png?raw=true)<br>
+
+- What is Function Approximation?
+- Why Do We Need Function Approximation?
+- Approaches to Function Approximation
+- Interpolation
+- Regression
+- Series Expansion
+- Taylor Series Expansion
+- Applications of Function Approximation
+- Summary
+
+## Introduction to Iterative Methods: Understanding the Basics
 
 ![img1](https://raw.githubusercontent.com/eliza-ttt/Computational-Mathematics-Introduction/main/image__3.png)<br>
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__4.png?raw=true)<br>
 
-
+- Overview of Iterative Methods
+- Why Iterative Methods?
+- Basic Idea of Iterative Methods
+- Types of Iterative Methods
+- Fixed-Point Iteration
+- Newton's Method
+- Jacobi Method
+- Gauss-Seidel Method
+- Successive Over-Relaxation (SOR)
+- Convergence and Stability
+- Summary
 
 
 ![img1](https://github.com/eliza-ttt/Computational-Mathematics-Introduction/blob/main/image__2.png?raw=true)<br>
@@ -37,6 +64,10 @@ Objectives<br>
 - Perform addition and subtraction on given matrices<br>
 - Multiply matrices by a scalar and verify the properties<br>
 
+Course on Stepic!
+<br>
+[Stepik](https://stepik.org/course/205683)
+<br>
 The Youtube videos playlist link
 <br>
 [Youtube](https://www.youtube.com/playlist?list=PL2qSnIaJRkKs5Js0_dTZd46zvtmgKX3SD)
